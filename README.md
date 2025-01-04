@@ -20,6 +20,6 @@ If u want to learn GIT and GIT hub u should watch **CR7**, but if u don't know h
 - DART
 
 <a href="https://www.google.com" target="_blank">Visiter Google</a>
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](C:\Users\pc\Downloads\pictureofMe.png)
+![my picture](C:\Users\pc\Downloads\pictureofMe.png)
 
 
