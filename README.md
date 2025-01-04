@@ -20,6 +20,7 @@ If u want to learn GIT and GIT hub u should watch **CR7**, but if u don't know h
 - DART
 
 <a href="https://www.google.com" target="_blank">Visiter Google</a>
-![my picture](C:\Users\pc\Downloads\pictureofMe.png)
+![my picture](file:///C:/Users/pc/Downloads/pictureofMe.png)
+
 
 
