@@ -1,4 +1,4 @@
-<div align="center" style="font-size: 24px;">
+<div align="center" style="font-size: 50px;">
     Second_Project
 </div>
 
@@ -19,7 +19,7 @@ If u want to learn GIT and GIT hub u should watch **CR7**, but if u don't know h
 - C
 - DART
 
-*CLIKC her: www.google.com {:target="_blank"}
+<a href="https://www.google.com" target="_blank">CLICK here</a>
 
 
 
