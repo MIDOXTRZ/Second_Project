@@ -1,0 +1,8 @@
+- git clone https://github.com/MIDOXTRZ/Second_Project.git
+- git status
+- git add file.html / - git add * #all (staging area)
+- git reset head file.txt (untracke ile)
+- git commit -m "Description" (->local repo)
+- git branch (name of branch)
+- git remote -v (.. .. repo)
+- git push origin main
