@@ -15,5 +15,9 @@
 - C
 - DART
 
--*CLIKC ### her: www.google.com {:target="_blank"}
+*CLIKC her: www.google.com {:target="_blank"}
+<div align="center">
+This text is centered.
+</div>
+
 
